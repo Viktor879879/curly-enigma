@@ -1,0 +1,3 @@
+[submodule "curly-enigma"]
+	path = curly-enigma
+	url = git@github.com:Viktor879879/curly-enigma.git
